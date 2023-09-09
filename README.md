@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicoCruces
-- 👀 I’m interested in Geology 
-- 🌱 I’m currently learning Remote Sensing, GIS and Python for Geosciences
+- 👀 I’m interested in applying PYTHON and R to Remote Sensing  
+- 🌱 I’m currently finishing my Geology degree 
 
 
 <!---
