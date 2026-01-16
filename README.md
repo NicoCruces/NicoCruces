@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicoCruces
+- 👋 Hi, I’m @NicolasCruces
 - 👀 I’m interested in applying PYTHON and R to Remote Sensing  
 - 🌱 I’m currently finishing my Geology degree 
 
